@@ -1,0 +1,59 @@
+{
+    "search_algorithms": [
+        "Linear Search",
+        "Binary Search"
+    ],
+    "sorting_algorithms": [
+        "Bubble Sort",
+        "Selection Sort",
+        "Insertion Sort",
+        "Merge Sort",
+        "Quick Sort",
+        "Heap Sort",
+        "Counting Sort",
+        "Radix Sort"
+    ],
+    "rotation_algorithms": [
+        "Rotate Array (Left/Right)",
+        "Reversal Algorithm"
+    ],
+    "subarray_problems": [
+        "Maximum Subarray Sum (Kadane's Algorithm)",
+        "Longest Increasing Subarray",
+        "Longest Common Subarray",
+        "Subarray with Given Sum"
+    ],
+    "merging_arrays": [
+        "Merge Two Sorted Arrays",
+        "Merge Intervals"
+    ],
+    "searching_2D_arrays": [
+        "Search in a 2D Matrix"
+    ],
+    "matrix_operations": [
+        "Transpose",
+        "Matrix Multiplication"
+    ],
+    "miscellaneous": [
+        "Find Missing Number in an Array",
+        "Majority Element",
+        "Find duplicates in an array",
+        "Move Zeros to the End",
+        "Find Peak Element"
+    ],
+    "sliding_window_techniques": [
+        "Maximum Sum Subarray of Size K",
+        "Smallest Subarray with a Sum Greater than K",
+        "Longest Substring without Repeating Characters"
+    ],
+    "prefix_sum_techniques": [
+        "Subarray Sum Equals K",
+        "Count of Smaller Numbers After Self",
+        "Minimum Size Subarray Sum"
+    ],
+    "miscellaneous_algorithms": [
+        "Rainwater Trapping",
+        "Product of Array Except Self",
+        "Next Permutation"
+    ]
+}
